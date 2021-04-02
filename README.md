@@ -1,17 +1,18 @@
-# Form Handler
+# Signup and Login Handler for users
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
-This project is simple demonstration of Form where clients can submit their personal information in a database with their passwords hashed before getting stored in the database.
+Created a Signup/login API where users can signup and login with proper credentials and passwords being hashed first before getting stored in the database. 
 	
 ## Technologies
 Project is created with:
-*  mongodb: 3.6.3
-*  mongoose: 5.11.4
-*  express: 4.17.1
+*  mongodb: 3.6.3 (NoSQL Database)
+*  bcrypt: 5.0.0 (Hashing Library)
+*  express: 4.17.1 (Backend Server)
+*  Mocha: 8.3.2 (Unit Testing)
 	
 ## Setup
 To run this project, install it locally using npm:
