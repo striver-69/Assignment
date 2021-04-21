@@ -5,7 +5,7 @@
 * [Setup](#setup)
 
 ## General info
-Created a Signup/login API where users can signup and login with proper credentials and passwords being hashed first before getting stored in the database. Tested all the endpoints using PostMan.
+Created a Signup/login API where users can signup and login with proper credentials and passwords being hashed first before getting stored in the database. Tested all the endpoints using PostMan and Mocha.
 	
 ## Technologies
 Project is created with:
